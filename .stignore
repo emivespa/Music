@@ -1,3 +1,7 @@
-**.part
-**.tmp
 .direnv
+
+// firefox, youtube-dl partial downloads:
+**.part
+
+// qbittorent partial downloads:
+**.tmp
